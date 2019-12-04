@@ -131,8 +131,6 @@ margin-bottom: 20px;
 	width: 49%;
 }
 
- /* End call to action code, begin wrapper code */
-
  .upper-wrapper{
 	width: 100%;
 	vertical-align: middle;
@@ -149,7 +147,6 @@ margin-bottom: 20px;
 	text-align: center;
 	width: 100%;
 }
-/* End top-page wrapper, begin lower page wrapper code*/
 
  .lower-wrapper{
 width: 100%;
@@ -162,7 +159,6 @@ text-align: left;
 	margin-bottom: 25px;
 	margin-top: 20px;
 }
-/* End lower page wrapper, begin legal code*/
 
  #legal {
 	text-align: center;
